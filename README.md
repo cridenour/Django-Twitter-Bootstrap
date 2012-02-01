@@ -5,6 +5,7 @@ The goal of Django Twitter Bootstrap is quite simple - provide a base Django pro
 Requirements
 ------------
 You must have lessc and node globally accessible. On OSX, I used Macports to install node, added a symbolic link to /usr/bin/node and then used Node Package Manager (npm) to install lessc via the following:
+    
     npm install --global less
 
 If you can run the test pages (no syncdb required), then you're golden.
