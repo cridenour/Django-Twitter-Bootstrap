@@ -2,3 +2,4 @@
 .idea
 *.db
 static
+local_settings*.py
