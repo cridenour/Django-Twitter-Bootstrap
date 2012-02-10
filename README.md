@@ -14,4 +14,8 @@ Updates
 -------
 I will keep an eye on Twitter Bootstrap and update my code as necessary. If I'm behind, let me know!
 
+I Need Help With...
+--------------------
+I would love for someone to help me standardize this project a little further. Ideally without too many more requirements, better logging and media support would be great settings for a starter project like this!
+
 Enjoy!
