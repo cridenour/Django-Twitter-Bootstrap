@@ -2,7 +2,7 @@ _Now updated for Django 1.4.1 and Bootstrap 2.1_
 
 Django Twitter Bootstrap
 =========================
-The goal of Django Twitter Bootstrap is quite simple - provide a base Django project which handles the build process of Twitter Bootstrap 2.0 via django-compress.  Basically, using this template, it will be easy to see how you can include more LESS files (and even coffeescript) and have Django build (and with DEBUG = False, concat and compress) these files for production use.
+The goal of Django Twitter Bootstrap is quite simple - provide a base Django project which handles the build process of Twitter Bootstrap 2.1 via django-compress.  Basically, using this template, it will be easy to see how you can include more LESS files (and even coffeescript) and have Django build (and with DEBUG = False, concat and compress) these files for production use.
 
 Requirements
 ------------
